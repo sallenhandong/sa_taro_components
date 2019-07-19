@@ -1,0 +1,21 @@
+.index {
+  flex-direction: column;
+  width: 100%;
+  .dec_btn {
+    background-color: #4F7AE2;
+    color: white;
+    height: 80rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20rpx;
+  }
+  .title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#4F7AE2;
+    margin-top: 20rpx;
+    margin-bottom: 20rpx;
+  }
+}

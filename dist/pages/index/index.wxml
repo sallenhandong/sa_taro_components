@@ -1,0 +1,18 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="index"><text class="title">SA Taro Components</text>
+        <view class="dec_btn" bindtap="showInputAlert">Modal</view>
+        <view class="dec_btn" bindtap="showPickerView">PickerView</view>
+        <view class="dec_btn" bindtap="clickProgress">Progress</view>
+        <view class="dec_btn" bindtap="funPrivateYMidM">SwipeAction</view>
+        <view class="dec_btn" bindtap="showArrowTip">Arrow Tip</view>
+        <view class="dec_btn" bindtap="funPrivateYMidM">Radio Button</view>
+        <view class="dec_btn" bindtap="funPrivateYMidM">Slider</view>
+        <view class="dec_btn" bindtap="funPrivateYMidM">List</view>
+        <view class="dec_btn" bindtap="showPickerView">ActionSheet</view>
+        <view class="dec_btn" bindtap="showPickerView">TimeLine</view>
+        <view class="dec_btn" bindtap="showPickerView">Tabs</view>
+        <input-modal compid="{{$compid__60}}"></input-modal>
+        <sa-picker-view compid="{{$compid__61}}"></sa-picker-view>
+        <arrow-tip compid="{{$compid__62}}"></arrow-tip>
+    </view>
+</block>
