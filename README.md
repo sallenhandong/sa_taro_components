@@ -1,6 +1,5 @@
 # sa_taro_components
 taro miniprogram components
-# sa_timeline
 
 ### 预览图
 ![](https://github.com/sallenhandong/sa_taro_components/blob/master/src/images/home.jpg)
