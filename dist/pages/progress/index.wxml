@@ -1,5 +1,0 @@
-<block wx:if="{{$taroCompReady}}">
-    <view class="progress">
-        <sa-progress></sa-progress>
-    </view>
-</block>

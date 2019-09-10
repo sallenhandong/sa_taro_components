@@ -1,6 +1,0 @@
-{
-  "usingComponents": {
-    "sa-progress": "../../components/progress/index"
-  },
-  "navigationBarTitleText": "进度条"
-}

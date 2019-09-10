@@ -1,8 +1,0 @@
-{
-  "usingComponents": {
-    "input-modal": "../../components/inputModal/index",
-    "sa-picker-view": "../../components/pickerView/index",
-    "arrow-tip": "../../components/arrowTip/index"
-  },
-  "navigationBarTitleText": "Taro Components"
-}

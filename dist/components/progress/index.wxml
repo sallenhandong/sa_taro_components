@@ -1,6 +1,0 @@
-<block wx:if="{{$taroCompReady}}">
-    <view class="">
-        <canvas canvas-id="myCanvas" class="canvas"></canvas>
-        <canvas canvas-id="myCanvas1" class="canvas"></canvas>
-    </view>
-</block>
